@@ -1,3 +1,5 @@
+[![CI](https://github.com/Mo-Jamos/Guests-Frontend/actions/workflows/ci.yml/badge.svg)](https://github.com/Mo-Jamos/Guests-Frontend/actions/workflows/ci.yml)
+
 # guest-frontend
 
 ## Project setup
