@@ -1,4 +1,5 @@
 <template>
+  <h1>{{msg}}</h1>
   <img style="margin-left: 100px; width:500px;" alt='Vue logo' src='../assets/schriftzug.png'>
   <div class="hello">
     <div
