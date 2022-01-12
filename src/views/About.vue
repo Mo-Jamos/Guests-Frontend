@@ -12,4 +12,16 @@
     <p style="text-align: center;">Link zum&nbsp;FrontEnd Repo:&nbsp;<a href="https://github.com/Mo-Jamos/Guests-Frontend">https://github.com/Mo-Jamos/Guests-Frontend</a></p>
     <p style="text-align: center;">Link zum BackEnd Repo: <a href="https://github.com/Mo-Jamos/Save_the_Date_WebTech-Projekt">https://github.com/Mo-Jamos/Save_the_Date_WebTech-Projekt</a></p>
   </div>
+  <Time msg=""/>
 </template>
+<script>
+// @ is an alias to /src
+import Time from '@/components/Time.vue'
+
+export default {
+  name: 'About',
+  components: {
+    Time
+  }
+}
+</script>

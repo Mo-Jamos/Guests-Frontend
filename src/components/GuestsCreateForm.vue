@@ -1,5 +1,5 @@
 <template>
-  <img style="margin-left: 0px; width:500px;" src='../assets/schriftzug.png'>
+  <img style="margin-left: 0px; width:450px;" src='../assets/schriftzug.png'>
   <div class="test">
     <form class="row g-3 needs-validation" id="guests-create-form" novalidate>
   <div
@@ -74,7 +74,7 @@
       <div class="form-check">
         <input class="form-check-input" type="checkbox" id="FieldsetCheck" v-model="plusOne" required>
         <label class="form-check-label" for="FieldsetCheck" style="margin-right: 300px; color: black">
-          check this
+          Plus One?
         </label>
       </div>
     </div>
